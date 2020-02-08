@@ -1,0 +1,6 @@
+Sick is where verbal feedback > 0 
+Resting is where verbal feedback == 0; 
+sick vs resting HRV: t-test:  Ttest_indResult(statistic=-14.374275440924887, pvalue=1.7609558529265878e-46)
+sick vs resting HR: t-test:  Ttest_indResult(statistic=16.50085771101004, pvalue=1.5771521205813925e-60)
+sick vs resting BR: t-test:  Ttest_indResult(statistic=7.415871421114117, pvalue=1.2862039511192717e-13)
+sick vs resting GSR: t-test:  Ttest_indResult(statistic=30.72747933413123, pvalue=6.017025654163143e-200)

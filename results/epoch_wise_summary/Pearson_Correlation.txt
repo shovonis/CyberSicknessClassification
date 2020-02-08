@@ -1,0 +1,8 @@
+Pearson Correlation of  HR and Feedback
+R value:  0.5857259326898909 p value:  0.02177325817602439
+Pearson Correlation of  BR and Feedback
+R value:  -0.18308172010865603 p value:  0.5136830226595261
+Pearson Correlation of  HRV and Feedback
+R value:  -0.6048649673434506 p value:  0.016900010651293977
+Pearson Correlation of  GSR and Feedback
+R value:  0.7877051800511444 p value:  0.0004885754242786628
