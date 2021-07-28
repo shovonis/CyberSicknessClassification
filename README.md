@@ -10,6 +10,7 @@ Cybersickness is one of the primary challenges to the usability and acceptabilit
 Architechture: 
 
 
+![image](https://user-images.githubusercontent.com/2872955/127386598-f99e11f4-d0f1-4d52-b95d-e6006a539c6e.png)
 
 
 # Cite This:
